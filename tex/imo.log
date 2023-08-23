@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  23 AUG 2023 14:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.6.13)  23 AUG 2023 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -908,7 +908,7 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 ]
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-112.
+116.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -926,10 +926,10 @@ Package rerunfilecheck Info: File `imo.out' has not changed.
 (rerunfilecheck)             Checksum: 83A167039523223A9CF0333315A65AF1;816.
  ) 
 Here is how much of TeX's memory you used:
- 20079 strings out of 411427
- 405005 string characters out of 5823212
- 1849290 words of memory out of 5000000
- 40026 multiletter control sequences out of 15000+600000
+ 20091 strings out of 411427
+ 405733 string characters out of 5823212
+ 1853290 words of memory out of 5000000
+ 40038 multiletter control sequences out of 15000+600000
  524224 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,11n,108p,1203b,371s stack positions out of 10000i,1000n,20000p,200000b,200000s
