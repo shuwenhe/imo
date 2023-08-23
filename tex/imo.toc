@@ -1,0 +1,7 @@
+\contentsline {chapter}{目录}{2}{chapter*.1}%
+\contentsline {section}{\numberline {1}IMO2023第1题}{3}{section.0.0.1}%
+\contentsline {section}{\numberline {2}IMO2023第2题}{3}{section.0.0.2}%
+\contentsline {section}{\numberline {3}IMO2023第3题}{3}{section.0.0.3}%
+\contentsline {section}{\numberline {4}IMO2023第4题}{3}{section.0.0.4}%
+\contentsline {section}{\numberline {5}IMO2023第5题}{3}{section.0.0.5}%
+\contentsline {section}{\numberline {6}IMO2023第6题}{3}{section.0.0.6}%
